@@ -1,8 +1,8 @@
 {
-  "name": "orderbuddypwa",
-  "short_name": "orderbuddypwa",
-  "theme_color": "#1976d2",
-  "background_color": "#fafafa",
+  "name": "Order Buddy",
+  "short_name": "Order Buddy",
+  "theme_color": "#ffbe06",
+  "background_color": "#000000",
   "display": "standalone",
   "scope": "/",
   "start_url": "/",
